@@ -1,5 +1,5 @@
 NAME = alinefr/web-baseimage
-VERSION = 1.3.3
+VERSION = 2.0.0
 
 .PHONY: build build-nocache test tag-latest push push-latest release git-tag-version
 

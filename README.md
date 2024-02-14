@@ -1,16 +1,17 @@
-# osixia/web-baseimage
-
-[![Docker Pulls](https://img.shields.io/docker/pulls/osixia/web-baseimage.svg)][hub]
-[![Docker Stars](https://img.shields.io/docker/stars/osixia/web-baseimage.svg)][hub]
-[![](https://images.microbadger.com/badges/image/osixia/web-baseimage.svg)](http://microbadger.com/images/osixia/web-baseimage "Get your own image badge on microbadger.com")
+# alinefr/web-baseimage
 
 [hub]: https://hub.docker.com/r/osixia/web-baseimage/
 
-Latest release: 1.2.0 - [Changelog](CHANGELOG.md) | [Docker Hub](https://hub.docker.com/r/osixia/web-baseimage) 
+Latest release: 2.0.0 - [Changelog](CHANGELOG.md) | [Docker Hub](https://hub.docker.com/r/alinefr/web-baseimage) 
 
 This image is based on:
+> [alinefr/light-baseimage](https://github.com/alinefr/docker-light-baseimage)
+
+Forked from:
 > [osixia/light-baseimage](https://github.com/osixia/docker-light-baseimage)
+
+Latest release
 
 **Add service-available: :apache2, :nginx and :php7.3-fpm.**
 
-To fully understand how this image works please refer to: [osixia/light-baseimage documentation](https://github.com/osixia/docker-light-baseimage).
+To fully understand how this image works please refer to: [alinefr/light-baseimage documentation](https://github.com/alinefr/docker-light-baseimage).
